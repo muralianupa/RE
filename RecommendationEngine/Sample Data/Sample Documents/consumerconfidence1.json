@@ -1,0 +1,380 @@
+{
+	"_id": "https://www.msn.com/en-gb/money/news/consumer-confidence-in-economic-outlook-at-seven-year-low-%E2%80%93-survey/ar-BBSYy2T?srcref=rss",
+	"CanonicalLink": "https://content.api.pressassociation.io/v1/item/73e23881-dad0-40e5-ba01-1f58bc68c68d",
+	"CreatedDateTime": "2019-02-14T03:00:16.865Z",
+	"DisplaySource": "pressassociation.io via MSN",
+	"FullText": " GfK’s Consumer Confidence Index is down by five points overall on this time last year (Barclaycard/PA)\n\nA special message from MSN:\n\n\n\nThe UK's most vulnerable children and young people face unimaginable challenges. We've partnered with giving platform Benevity to raise funds for two charities - the NSPCC and The Children's Society – to try to help turn things around for them. You can help make a difference - please donate now.\n\nConsumer confidence in the general economy has hit a seven-year low amid Brexit uncertainty, figures show.\n\nGfK’s long-running Consumer Confidence Index is down by five points overall on this time last year, although it remains at the same level as January’s minus 14.\n\nVideo: \"What is a no-deal Brexit?\" (Reuters)\n\nThe score for consumer confidence in the general economic situation over the next 12 months dropped one point to minus 39, the lowest figure for more than seven years and close to levels seen at the end of 2008 and in early 2009.\n\nConfidence in personal finances for the coming year increased two points to positive one this month, still five points lower than this time last year.\n\nThe major purchase index, an indicator of confidence in spending on big ticket items, remained steady at positive two.\n\n\n\nJoe Staton, client strategy director at GfK, said: “With the overall index score stuck at minus 14 this month, UK consumers remain in a ‘wait and see’ holding pattern in the face of political chaos in Westminster.\n\n“Although we’re feeling slightly more confident about our personal finances thanks to the effect of strong employment, low interest and inflation rates, and rising household incomes, concerns about the wider economic prospects for the country continue to weigh and depress the overall score.”\n\nRegarding the score for confidence in the general economy, Mr Staton added: “This is unsurprising given that consumers, companies and corporations thrive on certainty, which is in short supply just two months before the planned date for the UK’s EU exit.”\n\nGallery: Facts to know about Brexit (Photo Services)",
+	"MetaKeywords": [
+		""
+	],
+	"Provider": "MSN",
+	"PublishDate": null,
+	"Source": "",
+	"Title": "Consumer confidence in economic outlook at seven-year low – survey",
+	"Url": "https://www.msn.com/en-gb/money/news/consumer-confidence-in-economic-outlook-at-seven-year-low-%E2%80%93-survey/ar-BBSYy2T?srcref=rss",
+	"TopImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBSYFpZ.img?h=300&w=300&m=6&q=60&o=f&l=f&x=1454&y=1688",
+	"Entities": [{
+			"OriginalName": "Business_Finance",
+			"Name": "Business_Finance",
+			"Category": "topics",
+			"Source": "OpenCalais",
+			"Relevance": 0.518,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "Consumer confidence",
+			"Name": "Consumer confidence",
+			"Category": "socialTag",
+			"Source": "OpenCalais",
+			"Relevance": "1",
+			"PermIds": []
+		},
+		{
+			"OriginalName": "Brexit",
+			"Name": "Brexit",
+			"Category": "socialTag",
+			"Source": "OpenCalais",
+			"Relevance": "1",
+			"PermIds": []
+		},
+		{
+			"OriginalName": "Inflation",
+			"Name": "Inflation",
+			"Category": "socialTag",
+			"Source": "OpenCalais",
+			"Relevance": "1",
+			"PermIds": []
+		},
+		{
+			"OriginalName": "The Global Dow",
+			"Name": "The Global Dow",
+			"Category": "MarketIndex",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "general economic situation",
+			"Name": "general economic situation",
+			"Category": "Position",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "Joe Staton",
+			"Name": "joe staton",
+			"Category": "Person",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "client strategy director",
+			"Name": "client strategy director",
+			"Category": "Position",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "Children's Society",
+			"Name": "Children's Society",
+			"Category": "Organization",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "United Kingdom",
+			"Name": "United Kingdom",
+			"Category": "Country",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "GFK",
+			"Name": "gfk",
+			"Category": "Company",
+			"Source": "OpenCalais",
+			"Relevance": null,
+			"PermIds": [{
+				"name": "GfK SE",
+				"commonname": "GfK",
+				"score": 0.8588748,
+				"permid": "4295869903"
+			}]
+		},
+		{
+			"OriginalName": "European Union",
+			"Name": "European Union",
+			"Category": "Organization",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"OriginalName": "barclaycard",
+			"Name": "barclaycard",
+			"Category": "Company",
+			"Source": "OpenCalais",
+			"Relevance": 0.8,
+			"PermIds": [{
+				"name": "Barclaycard Ireland Limited",
+				"commonname": "Barclaycard",
+				"score": 0.0046342066,
+				"permid": "4298276700"
+			}]
+		},
+		{
+			"OriginalName": "director at GfK",
+			"Name": "director at GfK",
+			"Category": "Position",
+			"Source": "OpenCalais",
+			"Relevance": 0.2,
+			"PermIds": []
+		},
+		{
+			"Name": "seven-year",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 2,
+			"StartChar": 43,
+			"OriginalName": "seven-year"
+		},
+		{
+			"Name": "last year",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 3,
+			"StartChar": 145,
+			"OriginalName": "last year"
+		},
+		{
+			"Name": "january",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 751,
+			"OriginalName": "january"
+		},
+		{
+			"Name": "the next 12 months",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 891,
+			"OriginalName": "the next 12 months"
+		},
+		{
+			"Name": "39",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 937,
+			"OriginalName": "39"
+		},
+		{
+			"Name": "more than seven years",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 963,
+			"OriginalName": "more than seven years"
+		},
+		{
+			"Name": "early 2009",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1036,
+			"OriginalName": "early 2009"
+		},
+		{
+			"Name": "the coming year",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1085,
+			"OriginalName": "the coming year"
+		},
+		{
+			"Name": "this month",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1138,
+			"OriginalName": "this month"
+		},
+		{
+			"Name": "14 this month",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1419,
+			"OriginalName": "14 this month"
+		},
+		{
+			"Name": "just two months",
+			"Category": "DATE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 2025,
+			"OriginalName": "just two months"
+		},
+		{
+			"Name": "five",
+			"Category": "CARDINAL",
+			"Source": "SpaCy",
+			"Relevance": 3,
+			"StartChar": 112,
+			"OriginalName": "five"
+		},
+		{
+			"Name": "two",
+			"Category": "CARDINAL",
+			"Source": "SpaCy",
+			"Relevance": 3,
+			"StartChar": 350,
+			"OriginalName": "two"
+		},
+		{
+			"Name": "14",
+			"Category": "CARDINAL",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 767,
+			"OriginalName": "14"
+		},
+		{
+			"Name": "one",
+			"Category": "CARDINAL",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 918,
+			"OriginalName": "one"
+		},
+		{
+			"Name": "msn",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 196,
+			"OriginalName": "msn"
+		},
+		{
+			"Name": "nspcc",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 370,
+			"OriginalName": "nspcc"
+		},
+		{
+			"Name": "childrens society",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 380,
+			"OriginalName": "the children's society"
+		},
+		{
+			"Name": "consumer confidence index",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 629,
+			"OriginalName": "consumer confidence index"
+		},
+		{
+			"Name": "reuters",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 808,
+			"OriginalName": "reuters"
+		},
+		{
+			"Name": "gfk",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1363,
+			"OriginalName": "gfk"
+		},
+		{
+			"Name": "photo services",
+			"Category": "ORG",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 2126,
+			"OriginalName": "photo services"
+		},
+		{
+			"Name": "uk",
+			"Category": "GPE",
+			"Source": "SpaCy",
+			"Relevance": 2,
+			"StartChar": 208,
+			"OriginalName": "uk"
+		},
+		{
+			"Name": "brexit",
+			"Category": "GPE",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 575,
+			"OriginalName": "brexit"
+		},
+		{
+			"Name": "joe staton",
+			"Category": "PERSON",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1323,
+			"OriginalName": "joe staton"
+		},
+		{
+			"Name": "westminster",
+			"Category": "PERSON",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1524,
+			"OriginalName": "westminster"
+		},
+		{
+			"Name": "mr staton",
+			"Category": "PERSON",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 1891,
+			"OriginalName": "mr staton"
+		},
+		{
+			"Name": "brexit",
+			"Category": "PERSON",
+			"Source": "SpaCy",
+			"Relevance": 1,
+			"StartChar": 2118,
+			"OriginalName": "brexit"
+		},
+		{
+			"OriginalName": "Advertising & Marketing - NEC",
+			"Name": "Advertising & Marketing - NEC",
+			"Category": "lookupIndustry",
+			"Source": "ModuleQ",
+			"Relevance": 0.1,
+			"PermIds": []
+		}
+	],
+	"CategoriesCount": {
+		"topics": 1,
+		"industry": 0,
+		"IndustryTerm": 0,
+		"lookupIndustry": 0
+	},
+	"og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBSYFpZ.img?h=300&w=300&m=6&q=60&o=t&l=f&f=jpg&x=1454&y=1688",
+	"og_title": "Consumer confidence in economic outlook at seven-year low – survey",
+	"og_summary": "The long-running Consumer Confidence Survey is down by five points overall on this time last year."
+}

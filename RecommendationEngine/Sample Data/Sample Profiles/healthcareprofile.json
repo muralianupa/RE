@@ -1,0 +1,60 @@
+{
+	"user": "healthcare@moduleq.com",
+	"user_org": {
+		"name": "ModuleQ",
+		"legal_name": "ModuleQ Inc",
+		"org_id": "moduleq.com",
+		"salience": 1.0
+	},
+	"organizations": [{
+			"name": "CVS Pharmacy",
+			"legal_name": "CVS Pharmacy Inc",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Walgreens",
+			"legal_name": "Walgreen Company",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Pfizer",
+			"legal_name": "Pfizer Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "McKesson",
+			"legal_name": "McKesson Corporation",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Aetna",
+			"legal_name": "Aetna Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Novartis",
+			"legal_name": "Novartis",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Bayer",
+			"legal_name": "Bayer AG",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		}
+	],
+	"people": {}
+}

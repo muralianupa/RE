@@ -1,0 +1,71 @@
+{
+	"user": "demo@moduleq.com",
+	"user_org": {
+		"name": "ModuleQ",
+		"legal_name": "ModuleQ Inc",
+		"org_id": "moduleq.com",
+		"salience": 1.0
+	},
+	"organizations": [{
+			"name": "Fidelity Investments",
+			"legal_name": "Fidelity Investments LLC",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Wellington Management",
+			"legal_name": "Wellington Management Company LLP",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "EY",
+			"legal_name": "Ernst & Young Global Limited",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Vanguard",
+			"legal_name": "The Vanguard Group, Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "PwC",
+			"legal_name": "PricewaterhouseCoopers LLP",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Deloitte",
+			"legal_name": "Deloitte Touche Tohmatsu Limited",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "McKinsey",
+			"legal_name": "McKinsey & Company",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "KPMG",
+			"legal_name": "KPMG",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		}
+	],
+	"topics": [{
+		"name": "Accounting",
+		"salience": 1.0
+	}],
+	"people": {}
+}

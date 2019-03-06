@@ -1,0 +1,209 @@
+{
+	"user": "demo@moduleq.com",
+	"user_org": {
+		"name": "ModuleQ",
+		"legal_name": "ModuleQ Inc",
+		"org_id": "moduleq.com",
+		"salience": 1.0
+	},
+	"organizations": [{
+			"name": "Google",
+			"legal_name": "Google Inc",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Microsoft",
+			"legal_name": "Microsoft Corporation",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Amazon",
+			"legal_name": "Amazon.com Inc",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Salesforce",
+			"legal_name": "salesforce.com, inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "IBM",
+			"legal_name": "International Business Machines Corporation",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "H2O.ai",
+			"legal_name": "H2O.ai Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "OpenAI",
+			"legal_name": "OpenAI",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "DeepMind",
+			"legal_name": "DeepMind Technologies Limited",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Waymo",
+			"legal_name": "Waymo LLC",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Lex Machina",
+			"legal_name": "Lex Machina, Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "FlamingoAI",
+			"legal_name": "Flamingo Customer Experience, Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "SenseTime",
+			"legal_name": "SenseTime Group Limited",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Cruise Automation",
+			"legal_name": "GM Cruise LLC",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Affirm",
+			"legal_name": "Affirm Inc.",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		},
+		{
+			"name": "Affectiva",
+			"legal_name": "Affectiva Inc",
+			"org_id": "",
+			"priority_ids": [],
+			"salience": 100
+		}
+	],
+	"topics": [{
+			"name": "Cloud computing",
+			"salience": 100
+		},
+		{
+			"name": "Cloud infrastructure",
+			"salience": 100
+		},
+		{
+			"name": "Internet privacy",
+			"salience": 100
+		},
+		{
+			"name": "E-commerce",
+			"salience": 100
+		},
+		{
+			"name": "Information and communications technology",
+			"salience": 100
+		},
+		{
+			"name": "Amazon Web Services",
+			"salience": 100
+		},
+		{
+			"name": "Artificial intelligence",
+			"salience": 100
+		},
+		{
+			"name": "Collaborative software",
+			"salience": 100
+		},
+		{
+			"name": "Cloud applications",
+			"salience": 100
+		},
+		{
+			"name": "Human–computer interaction",
+			"salience": 100
+		},
+		{
+			"name": "Vehicular automation",
+			"salience": 100
+		},
+		{
+			"name": "Entrepreneurship",
+			"salience": 100
+		},
+		{
+			"name": "Autonomous cars",
+			"salience": 100
+		},
+		{
+			"name": "Cloud storage",
+			"salience": 100
+		},
+		{
+			"name": "Wearable computers",
+			"salience": 100
+		},
+		{
+			"name": "Ubiquitous computing",
+			"salience": 100
+		},
+		{
+			"name": "Serverless computing",
+			"salience": 100
+		},
+		{
+			"name": "Augmented reality",
+			"salience": 100
+		},
+		{
+			"name": "Virtual assistant",
+			"salience": 100
+		},
+		{
+			"name": "Virtual private cloud",
+			"salience": 100
+		},
+		{
+			"name": "Cloud computing security",
+			"salience": 100
+		},
+		{
+			"name": "Chatbot",
+			"salience": 100
+		},
+		{
+			"name": "Mixed reality",
+			"salience": 100
+		}
+	],
+	"people": {}
+}

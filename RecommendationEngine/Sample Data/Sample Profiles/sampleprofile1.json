@@ -1,0 +1,45 @@
+{
+	"user": "anupriya@moduleq.com",
+	"user_org": {
+		"name": "ModuleQ",
+		"legal_name": "ModuleQ Inc",
+		"org_id": "moduleq.com"
+	},
+	"organizations": [{
+			"name": "Thomson Reuters",
+			"legal_name": "Thomson Reuters Corporation",
+			"org_id": "thomsonreuters.com",
+			"salience": 250.938117265297,
+			"priority_ids": [29487]
+		},
+		{
+			"name": "Microsoft",
+			"legal_name": "Microsoft Corporation",
+			"org_id": "microsoft.com",
+			"salience": 408.344645835885,
+			"priority_ids": [29485]
+		},
+		{
+			"name": "Fortifier",
+			"legal_name": null,
+			"org_id": "4tifier.com",
+			"salience": 2091.8601573748,
+			"priority_ids": [29488]
+		},
+		{
+			"name": "The Starr Conspiracy",
+			"legal_name": "The Starr Conspiracy LLC",
+			"org_id": "thestarrconspiracy.com",
+			"salience": 65.9816056469951,
+			"priority_ids": [29486]
+		},
+		{
+			"name": "Uber",
+			"legal_name": "Uber USA LLC",
+			"org_id": "uber.com",
+			"salience": 249.107749030015,
+			"priority_ids": [29484]
+		}
+	],
+	"people": {}
+}
